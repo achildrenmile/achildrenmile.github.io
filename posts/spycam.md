@@ -1,3 +1,3 @@
 ### Spycam 
-2021-02-28 [#Spycam]("/posts/spycam.md")
+2021-02-28 [#Spycam](/posts/spycam.md)
 
