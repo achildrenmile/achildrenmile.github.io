@@ -1,3 +1,3 @@
 ### Spycam 
-2021-02-28 [#Spycam](/posts/spycam)
+2021-02-28 [#Blog](/index) | [#Spycam](/posts/spycam)
 
