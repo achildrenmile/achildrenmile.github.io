@@ -11,7 +11,7 @@ fun, because written and structured in here is using [#Markdown](https://github.
 [LinkedIn](https://www.linkedin.com/in/achildrenmile/)
 [Company WebPage](https://strali.solutions)
 [Github](https://github.com/achildrenmile)
-Mail michael(at)strali.solutions
+michael(at)strali.solutions
 
 Feel free to reach out to me!
 
