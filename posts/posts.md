@@ -1,3 +1,3 @@
 ## Posts
 
-{% include_relative posts/28-02-2021.md %}
+{% include_relative 28-02-2021.md %}
