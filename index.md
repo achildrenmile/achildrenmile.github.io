@@ -16,7 +16,7 @@ michael(at)strali.solutions
 Feel free to reach out to me!
 
 ---
-## Posts
+# Posts
 
 {% include_relative posts/spycam.md %}
 
