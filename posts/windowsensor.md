@@ -49,4 +49,8 @@ Then add the sensor to your Dashboard and you'll see something like this:
 <br><br>
 ![HassDashboardWindowSensor](/assets/hassdashboardview.JPG "Window sensor in Home Assistant dashboard")
 <br><br>
+
+### Finally
+![Mounted Prototype](/assets/sensor2.jpg "Mounted prototype")
+
 Congratulations, you created your own window/door sensor!
