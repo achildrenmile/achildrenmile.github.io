@@ -1,5 +1,5 @@
 ## Door/Window Sensor 
-2021-03-04 [#Blog](/index) | [#Spycam](/posts/windowsensor)
+2021-03-04 [#Blog](/index) | [#Windowsensor](/posts/windowsensor)
 
 Do you want to create your own door/window sensor and add to [#HomeAssistant](https://https://www.home-assistant.io/).<br>
 Great! So, here we go!
