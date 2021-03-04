@@ -17,6 +17,8 @@ Feel free to reach out to me!
 ---
 # Posts
 
+{% include_relative posts/windowsensor.md %}
+
 {% include_relative posts/spycam.md %}
 
 
