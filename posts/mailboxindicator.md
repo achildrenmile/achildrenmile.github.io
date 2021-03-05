@@ -1,7 +1,7 @@
 ## Using Power Automate & Home Assistant to trigger a mailbox indicator
 2021-03-05 [#Blog](/index) | [#PowerAutomate](/posts/mailboxindicator) | [#MailboxIndicator](/posts/mailboxindicator)
 
-A while back I created a [Mailbox indicator](https://www.instagram.com/p/CKtN3ThL1hd). This blog post will describe you the necessary steps to trigger the mailbox indicator whenever a mail arrives in your M365 Outlook using [#HomeAssistant](https://www.home-assistant.io/) and [#PowerAutomate] (https://flow.microsoft.com) to talk to your mail indicator device.
+A while back I created a [Mailbox indicator](https://www.instagram.com/p/CKtN3ThL1hd). This blog post will describe you the necessary steps to trigger the mailbox indicator whenever a mail arrives in your M365 Outlook using [#HomeAssistant](https://www.home-assistant.io/) and [#PowerAutomate](https://flow.microsoft.com) to talk to your mail indicator device.
 
 ### What hardware do you need?
 * ESP8266 or ESP32 based board (ideally in the form factor of a WEMOS or TTGO mini)
