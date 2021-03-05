@@ -47,7 +47,7 @@ Open the configuration.yaml of your Home Assistant instance and add following se
 After that restart your Home Assistant.
 Then add the sensor to your Dashboard and you'll see something like this:
 <br><br>
-![HassDashboardWindowSensor](/assets/hassdashboardview.JPG "Window sensor in Home Assistant dashboard")
+![HassDashboardWindowSensor](/assets/hassdashboardview.jpg "Window sensor in Home Assistant dashboard")
 <br><br>
 
 Congratulations, you created your own window/door sensor!

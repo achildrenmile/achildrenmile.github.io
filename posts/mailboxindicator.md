@@ -44,7 +44,7 @@ Open the scripts.yaml of your Home Assistant instance and add following sensor t
 ```
 Then add the sensor to your Dashboard and you'll see something like this:
 <br><br>
-![HassDashboardWindowSensor](/assets/mailboxtriggerinhassiio.jpg "Mailbox Trigger")
+![MaibloxtriggerHassio](/assets/mailboxtriggerhassiio.jpg "Mailbox Trigger")
 <br><br>
 
 You can then test the trigger manually and the Mailbox indicator flag should move up and down after each execution.
@@ -75,7 +75,7 @@ You can then test the trigger manually and the Mailbox indicator flag should mov
 * The flow should be in state success and the mailbox trigger fired
 
 <br><br>
-![MailboxTriggerFired](/assets/mailboxtriggerfired.JPG "Mailbox Trigger fired")
+![MailboxTriggerFired](/assets/mailboxtriggerfired.jpg "Mailbox Trigger fired")
 <br><br><br><br>
 
 Congratulations, you have successfully created and configured your mailbox indicator :)
