@@ -44,7 +44,7 @@ Open the scripts.yaml of your Home Assistant instance and add following sensor t
 ```
 Then add the sensor to your Dashboard and you'll see something like this:
 <br><br>
-![MaibloxtriggerHassio](/assets/mailboxtriggerhassiio.jpg "Mailbox Trigger")
+![MaibloxtriggerHassio](/assets/mailboxtriggerhassio.jpg "Mailbox Trigger")
 <br><br>
 
 You can then test the trigger manually and the Mailbox indicator flag should move up and down after each execution.
