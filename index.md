@@ -17,6 +17,8 @@ Feel free to reach out to me!
 ---
 # Posts
 
+{% include_relative posts/loragateway.md %}
+
 {% include_relative posts/mailboxindicator.md %}
 
 {% include_relative posts/windowsensor.md %}
