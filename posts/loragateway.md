@@ -10,3 +10,4 @@ LoRa (Long Range) is a proprietary low-power wide-area network modulation techni
 Before we come to the implementation of the client and the gateway, let's check what we would like to build.
 
 ![Architecture Overview](/assets/loraarchitecture.svg "Architecture Overview")
+
