@@ -64,9 +64,11 @@ After uploading the client will connect to the defined WiFi, to MQTT borker and 
 ![Lora Client](/assets/loragateway.jpg "Lora Gateway")
 
 ### Result
-The client will send in a defined interval "Hello World!" and increase the message counter. You can see this on the display on the client. The gateway will receive the message, decrypt it and forward the message to the MQTT broker and display the message a receive counter and the sender on the display. In order to check if you also receive MQTT messages you can use [MQTT.fx](https://mqttfx.jensd.de/), connect to the broker and subscribe to your defined LoRa gateway channel.
+The client will send in a defined interval "Hello World!" and increase the message counter. You can see this on the display on the client. The gateway will receive the message, decrypt it and forward the message to the MQTT broker and display the message a receive counter and the sender on the display. 
 
 ![Result](/assets/loraresult.jpg "Result")
+
+In order to check if you also receive MQTT messages you can use [MQTT.fx](https://mqttfx.jensd.de/), connect to the broker and subscribe to your defined LoRa gateway channel.
 
 ![MQTTFX](/assets/loramqttfx.jpg "MQTT FX")
 
