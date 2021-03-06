@@ -19,7 +19,7 @@ As you can see in the drawing, the LoRa client can be used to gather sensor data
 We are going to create a firmware for the LoRa client and the LoRa gateway in order to communicate to each other via LoRa. As LoRa is a public channel, everyone can send messages and of course, receive messages within the defined frequency band. So, if you do not secure your information, this can be read easily be everyone in (best case) around 15 km! With this in mind, both parties are using AES-128 encryption with a shared secret key.
 
 ### Message format
-Based on the idea from Alex (see his [post](https://www.aeq-web.com/selbstbau-https-lora-gateway-fur-iot-mit-esp32-lora-board/)) the message format is in the following format
+Based on the idea from Alex (see his [post](https://www.aeq-web.com/selbstbau-https-lora-gateway-fur-iot-mit-esp32-lora-board/)) the message is in the following format
 
 ```
 LORACLIENTNAME<DELIMITER>DATAATTRIBUT1<DELIMITER><DATAATTRIUB2><DELIMITER><...><DELIMITER>
