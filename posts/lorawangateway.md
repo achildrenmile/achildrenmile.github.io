@@ -11,11 +11,11 @@ You can find more information [here](https://lora-alliance.org/about-lorawan/).
 
 ### What hardware is used
 * Gateway
- * MikroTik wAP LR08
- * Antenna kit for LoRa
+    * MikroTik wAP LR08
+    * Antenna kit for LoRa
 
 * Sender
- * TGO LoRa32 V2.1 _ 1,6 version 433/868/915 Mhz ESP32 LoRa OLED 0,96 Inch SD Karte Bluetooth WIFI wireless Modul ESP-32 SMA
+    * TGO LoRa32 V2.1 _ 1,6 version 433/868/915 Mhz ESP32 LoRa OLED 0,96 Inch SD Karte Bluetooth WIFI wireless Modul ESP-32 SMA
 
 ### The hardware rollout
 The LoRaWan router is powered using Power-over-Ethernet (POE). The first step was to configure the network. As the LoRa gateway will be available for public use, I seperate port on the Layer-3 switch using port isolation was used to connect this router. Furthermore, a new VLAN network was created and POE passive activated. After the configuration the "hard" part started. 
