@@ -64,9 +64,9 @@ Information how the device casing was created can be found at [Instagram](https:
 
 And you should retrieve the information in your router and in the [TTS console](https://eu1.cloud.thethings.network):
 
-![Lora Wan Router Log](/assets/lorawanrouterlog.jpg "Lora Wan Router Log")
+![Lora Wan Router Log](/assets/lorawanrouterlog.JPG "Lora Wan Router Log")
 
-![Lora Wan TTS console](/assets/lorawanttsconsole.jpg "Lora Wan TTS console")
+![Lora Wan TTS console](/assets/lorawanttsconsole.JPG "Lora Wan TTS console")
 
 ### Gateway is public available 
 The gateway is now up-running and available for public in Gailtal nearby Nötsch. Subesequently, range tests will follow. Wish you a lot of fun and learning using #LoRaWan!
