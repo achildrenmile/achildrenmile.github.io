@@ -1,5 +1,5 @@
-## Lora MQTT Gateway
-2021-03-06 [#Blog](/index) | [#LoRaWan](/posts/lorawangateway) | [#LoRaWanGateway](/posts/lorawangateway)
+## LoRa Wan Gateway and The Things Network
+2021-03-13 [#Blog](/index) | [#LoRaWan](/posts/lorawangateway) | [#LoRaWanGateway](/posts/lorawangateway)
 
 In the post ["Lora MQTT Gateway"](/posts/loragateway) it was shown how to create a LoRa application scenario using 2 TTGO's as gateway and sender and consume messages using [#MQTT](https://en.wikipedia.org/wiki/MQTT). As LoRa offers a lot of possibilities and once you dig in deeper, you'll come to TheThingsStack network and this offers a lot of ideas and possibilities. As this project is community driven and a great way to make the #LoRaWan technology public available, the decision was made to place a public #LoRaWanGateway in Nötsch im Gailtal.
 
