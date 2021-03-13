@@ -3,7 +3,7 @@
 
 In the post ["Lora MQTT Gateway"](/posts/loragateway) it was shown how to create a LoRa application scenario using 2 TTGO's as gateway and sender and consume messages using [#MQTT](https://en.wikipedia.org/wiki/MQTT). As LoRa offers a lot of possibilities and once you dig in deeper, you'll come to TheThingsStack network and this offers a lot of ideas and possibilities. The Things Stack project is community driven and a great way to make the #LoRaWan technology public available. So, the decision was made to place a public #LoRaWanGateway in Nötsch im Gailtal.
 
-### What is a LoRaWanGateway
+### What is LoRaWan?
 According to the LoRa Alliance:
 "LoRaWAN® network architecture is deployed in a star-of-stars topology in which gateways relay messages between end-devices and a central network server. The gateways are connected to the network server via standard IP connections and act as a transparent bridge, simply converting RF packets to IP packets and vice versa. The wireless communication takes advantage of the Long Range characteristics of the LoRaÒ physical layer, allowing a single-hop link between the end-device and one or many gateways. All modes are capable of bi-directional communication, and there is support for multicast addressing groups to make efficient use of spectrum during tasks such as Firmware Over-The-Air (FOTA) upgrades or other mass distribution messages."
 
