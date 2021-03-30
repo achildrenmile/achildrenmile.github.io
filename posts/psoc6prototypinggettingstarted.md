@@ -1,7 +1,7 @@
 ## Getting Started with PSOC6 
 2021-03-30 [#Blog](/index) | [#PSOC6](/posts/psoc6protoytpinggettingstarted)
 
-In this post I'll let you know how to setup a development environment for [#PSOC6](https://www.cypress.com/products/psoc-6-microcontrollers-32-bit-arm-cortex-m4m0) from Infineon and execute the "Hello world" program.
+In this post I'll let you know how to setup the development environment for [#PSOC6](https://www.cypress.com/products/psoc-6-microcontrollers-32-bit-arm-cortex-m4m0) from Infineon and execute the "Hello world" program.
 
 ![PSOC6PROTOKIT](/assets/cy01.jpg "PSOC6PROTOKIT")
 
@@ -27,14 +27,14 @@ For more information about PSOC6, you can visit [this page](https://www.cypress.
 
 ![ModusInstall01](/assets/cy_modustoolboxinstall.jpg "ModusInstall01")
 
-![ModusInstall02](/assets/cy_modustoolboxinstall01.jpg "ModusInstall02")
+![ModusInstall02](/assets/cy_modustoolboxinstall02.jpg "ModusInstall02")
 
-![ModusInstall03](/assets/cy_modustoolboxinstall02.jpg "ModusInstall03")
+![ModusInstall03](/assets/cy_modustoolboxinstall03.jpg "ModusInstall03")
 
 ### Connect the PSOC6 and start the "Hello World" programm
 * Ensure that jumper J3 is at position 2-3 to select 3.3V
 
-![Check Jumper](/assets/cj_jumper.jpg "Check Jumper")
+![Check Jumper](/assets/cy_jumper.jpg "Check Jumper")
 
 * Connect the protoyping kit with the PC
 
