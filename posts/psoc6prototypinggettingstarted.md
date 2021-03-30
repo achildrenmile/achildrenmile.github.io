@@ -1,5 +1,5 @@
 ## Getting Started with PSOC6 
-2021-03-30 [#Blog](/index) | [#PSOC6](/posts/psoc6protoytpinggettingstarted)
+2021-03-30 [#Blog](/index) | [#PSOC6](/posts/psoc6prototypinggettingstarted)
 
 In this post you'll get to know how to setup the development environment for [#PSOC6](https://www.cypress.com/products/psoc-6-microcontrollers-32-bit-arm-cortex-m4m0) from Infineon and execute the "Hello world" program.
 
