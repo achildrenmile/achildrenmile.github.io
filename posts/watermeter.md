@@ -1,5 +1,5 @@
-## Lora MQTT Gateway
-2021-03-06 [#Blog](/index) | [#AI](/posts/watercounter) | [#Watercounter](/posts/watercounter)
+## Smart Watermeter Reader aka AI-on-the-edge-device (by jomjol)
+2021-03-06 [#Blog](/index) | [#AI](/posts/watermeter) | [#Watermeter](/posts/watercounter)
 
 Every once a year our local village water department sends us a snail mail to read the measure of our water counter and send them back. And every year, I think, why the hell is this necessary, if there are technical solutions out there which can handle this, ...but that's another story, however.
 
