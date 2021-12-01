@@ -16,6 +16,7 @@ Feel free to reach out to me!
 
 ---
 # Posts
+{% include_relative posts/watermeter.md %}
 
 {% include_relative posts/wowzasecuretokensample.md %}
 
