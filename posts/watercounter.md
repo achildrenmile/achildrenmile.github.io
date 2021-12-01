@@ -24,9 +24,9 @@ The ESP32 cam in the 3d printed housing is mounted on top of the watermeter.The 
 
 ### How does it look like?
 
-![Configuration](/assets/watermeterconfiguration.jpg "Configuration")
+![Configuration](/assets/watermeter_configuration.jpg "Configuration")
 
-![Watermeter moutned](/assets/watermeterconfiguration.jpg "Watermeter mounted")
+![Watermeter moutned](/assets/watermeter_mounted.jpg "Watermeter mounted")
 
 ![HomeAssistant](/assets/watercounterha.jpg "Result")
 
