@@ -17,7 +17,7 @@ Thanks to the WLED library it simple to control the light of Flauschi's eyes and
 * Hot glue gun
 
 ### Creating Flauschi
-1. Cut 2 felt sheets in form to form flauschi
+1. Cut 2 felt sheets in form 
 2. Position the LED rings as eyes, cut holes accordingly and move the wires into the holes
 3. Print with transparent filament the diffusers for the LEDs. [Here](https://www.tinkercad.com/embed/dFRdhrcicNz) you can find a version for a 12 LED ring
 4. Print with red filament the mouth. [Here](https://www.tinkercad.com/things/jRF1CgsdSXR-epic-face-mouth) you can find the mouth
