@@ -36,10 +36,10 @@ In order to double up the speed and enjoying building things together, my daught
 
 Here you'll find a few impressions. Hope you like it and now it's your turn to create your personal Flauschi!
 
-![Flauschi Off](/assets/flauschi/flauschioff.JPG "Flauschi Off")
-![Flauschi On](/assets/flauschi/flauschicolor.JPG "Flauschi On")
-![Sewing Flauschi](/assets/flauschi/sew.JPG "Sewing Flauschi")
-![Filling Flauschi](/assets/flauschi/fillwool.JPG "Filling Flauschi")
+![Flauschi Off](/assets/flauschi/flauschioff.jpg "Flauschi Off")
+![Flauschi On](/assets/flauschi/flauschicolor.jpg "Flauschi On")
+![Sewing Flauschi](/assets/flauschi/sew.jpg "Sewing Flauschi")
+![Filling Flauschi](/assets/flauschi/fillwool.jpg "Filling Flauschi")
 
 
 
