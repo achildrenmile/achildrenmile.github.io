@@ -1,7 +1,7 @@
 ## Flauschi - the WLED powered Ghost 
 2021-12-17 [#Blog](/index) | [#IoT](/posts/flauschi) | [#WLED](/posts/flauschi) | [#kidstech](/posts/flauschi)
 
-After assembling a WLED powered XMas lighting, my daughter Tamara asked me if we can do something LEDs. So, after searching in the IoT surprise box, we found LED rings and then the idea come up to create Flauschi, the Ghost with the shining eyes.
+After assembling a WLED powered XMas lighting, my daughter Tamara asked me if we can do something with LEDs. So, after searching in the IoT surprise box, we found LED rings and then the idea come up to create Flauschi, the Ghost with the shining eyes.
 
 Thanks to the WLED library it simple to control the light of Flauschi's eyes and you can integrate Flauschi into your home automation, etc. More information on WLED you can find [here](https://kno.wled.ge/).
 
