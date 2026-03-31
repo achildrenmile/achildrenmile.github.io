@@ -19,6 +19,10 @@ This website is hosted on [GitHub Pages](https://pages.github.com/), a service p
 
 For details, see the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
+### Data transfer to the USA
+
+GitHub Inc. is a US-based company (owned by Microsoft Corp.). By visiting this site, your IP address and server log data are transferred to the United States. The legal basis for this transfer is the [EU-U.S. Data Privacy Framework (DPF)](https://www.dataprivacyframework.gov/), under which Microsoft/GitHub is certified. The European Commission adopted an adequacy decision for the DPF on 10 July 2023. The same applies to YouTube/Google, which is also certified under the DPF.
+
 ### YouTube embeds
 
 Some pages contain embedded YouTube videos. When you load a page with an embedded video, a connection to Google/YouTube servers is established and cookies may be set by Google. See the [Google Privacy Policy](https://policies.google.com/privacy) for details.
