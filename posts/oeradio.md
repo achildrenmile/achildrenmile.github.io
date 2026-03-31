@@ -1,5 +1,5 @@
 ## oeradio.at — Why I Built a Ham Radio Platform With AI
-2024-10-15 [#Blog](/index) | [#HamRadio](/posts/oeradio) | [#AI](/posts/oeradio) | [#OERadio](/posts/oeradio)
+2026-03-05 [#Blog](/index) | [#HamRadio](/posts/oeradio) | [#AI](/posts/oeradio) | [#OERadio](/posts/oeradio)
 
 After getting my callsign (OE8YML), I did what any reasonable person would do: instead of actually going on the air, I started building tools. The Austrian ham radio landscape had resources scattered all over the place, German-language content was thin, and I had the itch to build something. So [oeradio.at](https://oeradio.at) was born.
 

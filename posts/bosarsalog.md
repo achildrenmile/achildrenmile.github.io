@@ -1,5 +1,5 @@
 ## BOS-ARSA Log — Building an Emergency Communications Exercise Tool
-2025-09-22 [#Blog](/index) | [#HamRadio](/posts/bosarsalog) | [#EmergencyComms](/posts/bosarsalog) | [#Tools](/posts/bosarsalog)
+2026-03-25 [#Blog](/index) | [#HamRadio](/posts/bosarsalog) | [#EmergencyComms](/posts/bosarsalog) | [#Tools](/posts/bosarsalog)
 
 [BOS-ARSA](https://bos-arsa.at) is an Austrian organization running weekly emergency communications exercises via amateur radio. Operators across multiple districts check in via different repeaters, and someone has to log all of it. Previously that someone used Excel spreadsheets. Which works until it doesn't — multiple operators logging at the same time, real-time updates needed, merging files after the exercise. We've all been there.
 

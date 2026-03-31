@@ -1,5 +1,5 @@
 ## Building Ham Radio Tools With AI Assistance — The -Blick Toolbox
-2025-02-20 [#Blog](/index) | [#HamRadio](/posts/oeradioblicktools) | [#AI](/posts/oeradioblicktools) | [#Tools](/posts/oeradioblicktools)
+2026-03-12 [#Blog](/index) | [#HamRadio](/posts/oeradioblicktools) | [#AI](/posts/oeradioblicktools) | [#Tools](/posts/oeradioblicktools)
 
 After [BandBlick](https://bandblick.oeradio.at) kicked things off, the tool ecosystem on [oeradio.at](https://oeradio.at) grew. The naming convention "-Blick" (German for "view/glance") started with BandBlick and then became a brand by accident. By the fifth tool I was committed.
 

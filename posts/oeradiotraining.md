@@ -1,5 +1,5 @@
 ## QBlitz, MorseFleet and FunkPilot — When AI Meets Ham Radio Training
-2025-06-10 [#Blog](/index) | [#HamRadio](/posts/oeradiotraining) | [#AI](/posts/oeradiotraining) | [#Learning](/posts/oeradiotraining)
+2026-03-19 [#Blog](/index) | [#HamRadio](/posts/oeradiotraining) | [#AI](/posts/oeradiotraining) | [#Learning](/posts/oeradiotraining)
 
 The [oeradio.at](https://oeradio.at) toolbox keeps growing. This time it's the learning and training tier — tools to help you get better at the hobby, or at least less embarrassed during a QSO.
 
