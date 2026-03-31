@@ -21,6 +21,8 @@ Single HTML file, no dependencies, vanilla JS. MIT licensed.
 
 [Live Tool](https://achildrenmile.github.io/pufferspeicher-rechner/) | [GitHub Repo](https://github.com/achildrenmile/pufferspeicher-rechner)
 
-Photos and videos follow.
+### Test phase
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nxTsm-T0kuU" frameborder="0" allowfullscreen></iframe>
 
 
