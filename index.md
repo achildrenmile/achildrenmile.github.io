@@ -47,4 +47,6 @@ Feel free to reach out to me!
 
 {% include_relative posts/spycam.md %}
 
+---
 
+{% include_relative posts/imprint.md %}
