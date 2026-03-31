@@ -25,4 +25,6 @@ Current AI is genuinely capable at this stuff, but a human is still needed for Q
 
 More tools and experiments were coming.
 
+[oeradio.at](https://oeradio.at) | [GitHub](https://github.com/achildrenmile/oeradioat) | [BandBlick GitHub](https://github.com/achildrenmile/bandblick)
+
 

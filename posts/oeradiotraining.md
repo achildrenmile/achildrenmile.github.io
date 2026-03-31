@@ -22,4 +22,8 @@ The **[OERadio MCP Server](https://oeradio-mcp.oeradio.at)** powers FunkPilot an
 
 There's a certain irony in using AI to help with a hobby that has plenty of established culture around self-sufficiency and figuring things out yourself. But if the alternative is spending 20 minutes searching through PDFs for a band plan detail, I'll take the AI.
 
+### GitHub repos
+
+[QBlitz](https://github.com/achildrenmile/qblitz) | [MorseFleet](https://github.com/achildrenmile/morsefleet) | [FunkPilot](https://github.com/achildrenmile/funkpilot) | [OERadio MCP Server](https://github.com/achildrenmile/oeradio-mcp) | [PrefixPlay](https://github.com/achildrenmile/prefixplay) | [FirstContact](https://github.com/achildrenmile/firstcontact)
+
 

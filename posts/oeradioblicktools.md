@@ -20,4 +20,8 @@ All of these were built AI-assisted, primarily with Claude. I'm a .NET/enterpris
 
 The platform also runs [OpenWebRX](https://openwebrx.oeradio.at) (SDR receiver), OpenHamClock, [Wavelog](https://wavelog.oeradio.at) (logbook), and a propagation/DX dashboard. It's growing into a full ham radio workbench — mostly because every time I think "wouldn't it be nice if..." I end up building it instead of going on the air.
 
+### GitHub repos
+
+[BandBlick](https://github.com/achildrenmile/bandblick) | [StrahlBlick](https://github.com/achildrenmile/strahlblick) | [AkkuBlick](https://github.com/achildrenmile/akkublick) | [KabelBlick](https://github.com/achildrenmile/kabelblick) | [RelaisBlick](https://github.com/achildrenmile/relaisblick) | [AntennenBlick](https://github.com/achildrenmile/antennenblick)
+
 

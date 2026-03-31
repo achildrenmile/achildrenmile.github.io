@@ -18,4 +18,6 @@ Honestly? The Excel situation was just that bad. Building a multi-user real-time
 
 The tool is in active use for the weekly BOS-ARSA exercises and has made the logging process significantly less painful for everyone involved.
 
+[GitHub](https://github.com/achildrenmile/bosarsalog)
+
 
