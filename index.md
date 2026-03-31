@@ -14,6 +14,8 @@ michael(at)strali.solutions
 
 Feel free to reach out to me!
 
+[Imprint & Privacy Policy](/imprint)
+
 ---
 # Posts
 
@@ -49,4 +51,4 @@ Feel free to reach out to me!
 
 ---
 
-{% include_relative posts/imprint.md %}
+[Imprint & Privacy Policy](/imprint)
