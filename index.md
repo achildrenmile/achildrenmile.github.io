@@ -19,6 +19,14 @@ Feel free to reach out to me!
 
 {% include_relative posts/pufferspeicherrechner.md %}
 
+{% include_relative posts/bosarsalog.md %}
+
+{% include_relative posts/oeradiotraining.md %}
+
+{% include_relative posts/oeradioblicktools.md %}
+
+{% include_relative posts/oeradio.md %}
+
 {% include_relative posts/flauschi.md %}
 
 {% include_relative posts/watermeter.md %}
