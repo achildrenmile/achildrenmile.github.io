@@ -17,6 +17,8 @@ Feel free to reach out to me!
 ---
 # Posts
 
+{% include_relative posts/pufferspeicherrechner.md %}
+
 {% include_relative posts/flauschi.md %}
 
 {% include_relative posts/watermeter.md %}
